@@ -1,0 +1,20 @@
+# Terraform files
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+
+# Database files
+db-data/
+*.sock
+
+# Certificates
+*.crt
+*.key
+
+# Logs
+*.log
+
+# Build files
+build/
+

@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d72e7b49.css",
+    "main.js": "/static/js/main.e9236238.js",
+    "static/media/JetsCards.png": "/static/media/JetsCards.f0bcf890d1ac09fd709a.png",
+    "static/media/JetsHome.png": "/static/media/JetsHome.996d3242a84d387f2f8b.png",
+    "static/media/ContactImg.png": "/static/media/ContactImg.83c2fb53f701987c4b67.png",
+    "static/media/AboutImg.png": "/static/media/AboutImg.d91e49d8e0630e2c70e7.png",
+    "static/media/1.png": "/static/media/1.5f61192f34e293bb1035.png",
+    "static/media/5.png": "/static/media/5.1bbcffad8bd0dc0ea376.png",
+    "static/media/2.png": "/static/media/2.988536d45a8f25439ebd.png",
+    "static/media/6.png": "/static/media/6.6401263cf8677fe6be42.png",
+    "static/media/3.png": "/static/media/3.1c4d5f872e366bcb18b8.png",
+    "static/media/4.png": "/static/media/4.ea03451a8ce22e5fa796.png",
+    "static/media/7.png": "/static/media/7.ba433634c28c0c9c35e3.png",
+    "static/media/LoginImg.png": "/static/media/LoginImg.a1fe05af5700f9243987.png",
+    "static/media/ContactContainer.png": "/static/media/ContactContainer.c55398a5b1eaa7771e4d.png",
+    "static/media/8.png": "/static/media/8.de547c7a7ae8937434c1.png",
+    "static/media/ContactForm.png": "/static/media/ContactForm.6fbd9b1d85d38cdd57fc.png",
+    "index.html": "/index.html",
+    "main.d72e7b49.css.map": "/static/css/main.d72e7b49.css.map",
+    "main.e9236238.js.map": "/static/js/main.e9236238.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d72e7b49.css",
+    "static/js/main.e9236238.js"
+  ]
+}
